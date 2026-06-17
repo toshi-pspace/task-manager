@@ -1,0 +1,19 @@
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Throwaway
+scratch/
+
+# Large raw assets are optional to track — uncomment to exclude
+# assets/raw/
+
+# OS / Drive cruft
+.DS_Store
+
+# IMPORTANT: never ignore the agent memory — it is the shared brain
+!.agent/
+!.agent/**
