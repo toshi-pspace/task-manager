@@ -21,5 +21,7 @@ open "src/index.html"
 Detailed/explained knowledge lives in `docs/`. Keep STATE.md lean and current.
 
 ## Links
-- Repo: <not connected yet>
+- Repo: https://github.com/toshi-pspace/task-manager (public)
+- Live site (share link): https://toshi-pspace.github.io/task-manager/
+- Hosting: GitHub Pages, deploy from `main` branch / root. Root index.html redirects to src/.
 - Replit: <not connected yet>
